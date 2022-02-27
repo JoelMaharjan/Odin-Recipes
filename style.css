@@ -1,0 +1,29 @@
+body{
+    background-color : rgba(215, 236, 241, 0.623);
+    margin-left: 15%;
+}
+
+
+img{
+    border-radius: 8px;
+    width : 800px;
+}
+
+ul{
+    list-style-type: none;
+    margin:0 ;
+    padding: 0; 
+}
+
+li a{
+    display :block;
+    color: #000;
+    text-decoration: none;
+    padding : 0;
+    margin:10px;
+}
+
+.box{
+    height : auto;
+    width: 800px;
+}
